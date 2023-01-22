@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+	font-family:Georgia, serif;
+}
+.login{
+	font-family:Arial;
+	
+		
+	background-repeat:no-repeat;
+	margin-top:200px;
+	background:cover;
+	background-size:500px;
+
+ 
+}
+
+
+
+.label{
+	font-family:Georgia, serif;
+}
+
+
